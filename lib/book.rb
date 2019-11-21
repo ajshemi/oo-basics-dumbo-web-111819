@@ -3,5 +3,7 @@ class Book
   def initialize(text)
     @title=text
   end
+  def turn_page
+  end
 end
 
