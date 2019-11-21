@@ -6,7 +6,7 @@ class Shoe
     @brand=brand
   end
   def cobble
-    puts 
+    #puts 
     @condition="new"
   end
 end
